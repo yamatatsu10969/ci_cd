@@ -1,0 +1,66 @@
+# Automatically generated on 2021-08-09 UTC from https://codemagic.io/app/6110daa7e328af04a4671c15/settings
+# Note that this configuration is not an exact match to UI settings. Review and adjust as necessary.
+
+workflows:
+  firebase_destribution_android:
+    name: firebase_destribution_android
+    max_build_duration: 60
+    environment:
+      vars:
+        ANDROID_FIREBASE_CONFIG: Encrypted(Z0FBQUFBQmhFVEZvTEpzc0VWR1FvU2J3UF84UmF3c3RJczA0VnkteC0yazllbWNkMFhVR1JKZnIwNUtkakNiTzFlaDVDRy1EblNqWHdXcjl2LVczc2Z0QU5qNndZNHExZ1MxalpJMFladTJiMHlKQml5QmVWLVFudUFaZVNIeEVSNExRV2VtbHRDM3pGVnc4d19iNldyZTktY01WX3JuS25KRGFjaGlJcko5Q1h5UFYzdl9KTnlQNmZNMW9RWmh6X2ZXZDl5eHF1TTZ6OTdvcXFKUzgxaU5sVnM1cC1KcTZHUVFzek9xd293c283S0dna2I2RXNyR1VGNUd6UXZKdVlwVWxQdGRrX3ZWdC1zUlVidXZFekZLZXBva3EtaHpFanNYclVMMnhSeEpMUUF2bDhKVFRFcXE3V2FWUzdBOEZoREhKWVVVYld4YVVkbXJibFEwM2VTdGpINC10UGhiV3VadmZoblUwUnc4LUZ0b2ozT1VQX1I3ZGdiNktFOExsYjc3REVwUzZsSXBTREZERlJZWlE3NzF6M1pCcXZOb2RyaWJ3OFR2R3RnTHRIdjNwY2NqVmtwTk05Slg2bDU5R3dLTnY4WmhNWllpamx0NWp2VmJmTzNmcGpSYmFhOTdNcjdENXZzQzFrTGRmVGZkWnJqcmludHZsYl9pRFlMMy1VaEJaRzZ2R0wyOGVyYy16Ujd4eXpEeDljMmY4eWhvOEpWLTRkTVpnMEJyUkFSN2s3TjQ0SEI0clo3djEtS3BmMGEtd3p2VGZKd0k5QjczLXFUVTE2QmNTT1poZ0JHLUNRTDNMem1vekRxVHRrWVJ2U3RWb0E1dEVMTndWUWJ0OGU0SWNGdTZOb2JFSnp4dDBKeHRKQnRRSEZSWWJJNGtBVUY2SVFEWVBicmRFelNoSmpKOUNwSWRMcXEwdjFDek91bk9QZ256NHU2ZERMYWJ1dy1TejdXZHRIVTVxV1lMY1gwaUNzU1JuMXkwTzRnaXRLOUVRU3V6R3dzZ0ZIcDFkeVFUdHAtelh3M3R5QW5NZHZDbklqa1ItZW5VQzl6MEo2SldOY01JMWp0MlZpRXpEckFZeVhKbGZMbDlEZnJQVGFWUU9hZmZEMW1Hb2VMOXM1S1RQQ1ZRa2JXRVJnbThjQUJfQTNtTDU2TmpsZzdWVXFRcjBWcHk3ZjJrR0hHWHd2cHBaSURiTENrbGlQRTU5VkwtOHRENUI3amg4b3NZN1ZFUVlTbW9VSV9wVkZhaC1aVFpCTmN1TWNwUlprZFhWdGJlSWJIMks5TDF2LWt4YVBfbTZSYWVndFJjS3ZVUm84YlB1SVl4TEhQaW5pLTBEZFhfSTIxZEF4SHo5M2JlUkt1WW9odExjWkRJWVB5SjM0eFcySURrZXVZMTNsNXU2UjB0bzRaU0hhdFNLUEFmTVRubUVJTFJKMW5FelJMN0NWR054NGtvcURJNUN5bzlzZHJOdHRYWnVSN0JQaXJXSUJiSVgtWFRIN2l0bmwxTDRQanIwM1I5MmZLbHlOcXF5ZURzSFIzSms0alNtTUFoUm9RZGd6UzZZMG1lN2o3ZUFlRUFlWURHQ2N2Qi1uMWNjWmFvX0hZaHJJcHJNcjROV1VvOFBKM3VUTjZvMGUweFpVT0pVV1Y1Nm9YN1NILVJjekFVaFBGcEw5SVFxd01BaVlCWVJkaHphcWx1d2RCN09SU1FnUnZwR3RBQk1fejVWQmNtandxanVZWGxXeEpNeUlyaDk4eGladUF6eXhkNkg4aHlRdktSS0IwMWFDbWR6eTlybDJGWXBybVhicXBmbHBreDVXd0VkX042TGpCV19nSXdXdWZPZW5rSGhmZU5hTFpIaFRPQk5xY1Y1a041Z21XeW5wel9LRG1qQl9RaEMxREJoSmFTQjJGRVoxMW5zTHZEWFByMmF4aVdWeWRNYjRNQ2xzekl1aUk3QjdpbWFNd2wzRjdIRlV2MVlZd2h1Yi02MTRITG5EY0lFM2h2SnhkdGVSNEJoOUU4dGRISWh3N2ZpeTEzbk8wWUpCRF9YMm9lWlM5Rzd5d25QSlN5YUZOa0N4Q2FhYTgxaG5mR1lST1Q5SEhCQ3E2UXhvMGF5VWpZOXFHeEZndThFTmhBWVRMQVpvVjMyVldHTmxxX3Z1RlZxbk94M3VuNWxhZE5EcDhmNGVUYmVsRUhSOFpDeUhwX2FJWlN3WXlrRHBVMVZoRFdEYVpFV0ZkWHAydDI2NTBka0xjNFh5cXZYckk2bEhEcWdsNk1jSm82b0pKV2NNeUg2OG5TUmhiY0hENktGMVZJczk5VWVVX0hOc2xDS1VxT3pFUFVKRUxIQU83VWFxaXJyQUZjUG9rZ1NWVU5ZT21KSFdTUnkxZGpxNTR2ZUo3Q0Y5c1hWbW8xdGZrMUJQeDBSN2Jxb2lGR1EyczFmSFNDMXhnbnlza09McXZRb0g0VjYzS281UW9CQ0pnRUNQaXBkQ1ZQMy12Z0dqQjF5TmFBd1R1dU95RmpFZDNoUDlzdklTOUQzQVJ6VDdBVVV1VlJNR045OFpQdklrdWRfWmJLSEJtTG5IQ0YwdmFiWVJNMGNHZkpIcjB0Szcwc0FYa0FKQ3QwdzBSLTgwY2w5Q2VNRndGTWN3LW4xMG5wNDAybC1hemFfSXRIN2lmek91dmNJR0hETk9fcHBOWlM4cDk1ODN6S3NCTWVKUWstNnBKRmoxRGFPckV0Tkl5NjlXd0owOVk3djhraWtDOWJTbDhCbDF5VmVxNkFhM21LVVRsZHpEY2l2b1RoMEVIVVBGb2o1MkRsNmhfRldsNTdEbEtCTGxTVWZ3RzBvdTFoOGZIa1B3bHhCcHowMUZEWFR0dWJFOE9HRFRoYWNxNnRoNWxVcTBVTV9DcGVIMWJhSmZOckVVVk8yTWtZZ3d1Zy13ZVJCLWNvNmZOcGpfTldyellLUV9ESnBvVTBCNmZPQ3RlVlZPM0lBbjEwY2Ewbzh1UTNmNkJiSjFqZ3ZvWndGakZZY2lkdS1uTF9BT1RfVk5SWXZlV2VNZktMOTRUUjk5MG8tRl8tN2xtVHlFWjZfMlphdUhxajdPSjFZblZVX19jTU9iTkhXRkpVLUx5MEVTazhYZmNqQmJvOC1KMmhvYlhkMjFNeXpxOE41di1fcmw5UTcyMnkxYncwYmIyVUs1MGxsSDN4SE56MlVvbk1PNHdaRUhDVy15Snh0dDlOZDRxVXJQaFYtTDZOZ3N2bmhqZWZzcmd3ZVR6Yi0zR2dwWXVMamR5eGhqRlBESXhpa1NoRVF2elFiNU5rb3RPekFpenRFUTZ5c1UzbEhmc2N5RWk5cGp6UjNZRjRqUmdqNFVnUGJ1dGxhT24yMGQ2enNWOUdOY01WYWlxWWEyVUxrd2xDSmx1a1BRajhhMWpTZFBKS3dpNnQwS1pKYzJZRnBfblBDS1dzbHlrZ1JMZk80dm9NNkNEZUhkLXNDQ1djamhUS2ZaR1o0aWZhRkNCazgxRnNlRjZxaEp3d3ZwRlM2cjJVNFlpaVlXWGFaLVBiOFZNRnZ2bFBfbmFobzJfdURmVVNUNlZxeTNyd2NWQlZRc1hKZEhIU1VRY2YtLUY3TXJfVjJJWVd5SUVhNFNQTE1qOWFGWkN1RWZpcktXczZVOFFTR01aSHZaU0FEdkdUb2V4eGFZM2U4MjNCWmVGOHVsTEgxUWcxem4tTEo3MFRsT2R3TU85bzZ5Y05Xc2tuaWdIczgyZ1JHNXBISHdPc1VwMXBzVFZVVEZaYmV0aGcxbE1mbmFDUTVoS2huV0oxTDdrMXZOYUZjeTdvRkJzNHphLU5rVXFvSzNKQ29aMXNSU0NVUHhZdnRxUHAyWlFhNGRqOWhKSC10LU5LSWdVNjhINDZldEt3VE90Y3BGT0lUc1ZGMm9RVGh2Mk1vQmdBMkJscmJvS0xHRXYyYlV4NzhHN3pEYXY0eWVTTUg5dDZJMEk5dkUxSDFsa2haRUtuZkMtcFcyS3Q5bDdmQmo1ZmFwMjAxUkNERVZkU193VERSRjlKYUVxY1kwa1FyOThfbEFpZWhLSjE4dTNzZlhlVEJBTU51M20zTExhaFFqUXdnVVR5LU1YOTRWdjEzTTl0cnNBVWNCNjBTa3BxQ3NkcTViM180OVdFZEdIdnpCdmRZdGZheGJXQllSTVprLXR0bzYtZjdpMFNoZ0o5TFdEQ2xva1FGQUNZM0lLNFRfVnNSaVJwQXZ2TFlESXRrbmZ5c3VmRmxEOWttcnZkYmNQUzR0NzJ5OUVmS2dPWWxDQ3VwUmZuek5ZQVNkcFFPVlNoQ1J4LWEtQTlMa1JOMEU2TjJ1cS1sWk1acEZ0Q2VMVVF2RkNZRjlPclB1VnFaVms3bmpzdFhxY2dwX2l4UW0xT00xcHRkWFVCV1gtYjRqWmstYUFpbmtNOU1LVGd3NHoyT0RQX2MxT2JDYnFnUWhmdHUwamdUWXpaaGhyV2FUbnMyUE4tQWt4Yy1YN2VlaEpVd2laWVoxbk1UcURESi1Lc3RBVVVQQzlsck91RVIxeUNrbERBYlh6amJLSzdzYUJ0by1RPT0=)
+      flutter: 2.2.1
+      xcode: latest
+      cocoapods: default
+    triggering:
+      events:
+        - pull_request
+      branch_patterns:
+        - pattern: '*'
+          include: true
+          source: true
+      tag_patterns:
+        - pattern: '*'
+          include: true
+    scripts:
+      - |
+        # set up debug keystore
+        rm -f ~/.android/debug.keystore
+        keytool -genkeypair \
+          -alias androiddebugkey \
+          -keypass android \
+          -keystore ~/.android/debug.keystore \
+          -storepass android \
+          -dname 'CN=Android Debug,O=Android,C=US' \
+          -keyalg 'RSA' \
+          -keysize 2048 \
+          -validity 10000
+      - |
+        # set up local properties
+        echo "flutter.sdk=$HOME/programs/flutter" > "$FCI_BUILD_DIR/android/local.properties"
+      - flutter packages pub get
+      - flutter analyze
+      - flutter test
+      - |
+        echo $ANDROID_FIREBASE_CONFIG | base64 --decode > $FCI_BUILD_DIR/android/app/google-services.json
+        echo Decoded google-services.json! Here is the directory after.
+        ls $FCI_BUILD_DIR/android/app
+        cat $FCI_BUILD_DIR/android/app/google-services.json
+      - flutter build apk --debug
+    artifacts:
+      - build/**/outputs/apk/**/*.apk
+      - build/**/outputs/bundle/**/*.aab
+      - build/**/outputs/**/mapping.txt
+      - flutter_drive.log
+    publishing:
+      email:
+        recipients:
+          - 52.wadachi.96@gmail.com
+      slack:
+        channel: '#_codemagic'
+        notify_on_build_start: false
+      firebase:
+        firebase_token: Encrypted(Z0FBQUFBQmhFVEZvUlk1emtIZGlEUFBYWENJc2dLNGJFZzNvTXlYQjU0Q3lJZmQxWTNvamN0cFdiUDBmRTNJVzVBSG9ScHlIcDZZcGxTaUotNTJ4V01xUWxGaF9oeUxWckQ1VFhOX2Q3MEt6RC00T0FSdEU0eGhFR1h6Sm9vS1FYMUdQd0FSNS1CSWRiLVQzOEtzckM4azFWeFpMdDFaTnUzSVhwOUVEZTJjZTVDQnhLT0J4SFVpSGZjbC1LQlljcjFsa2JGOFY1aDNNSWVFWnFrcFUzUDN0X1VfRk9ibnViZz09)
+        android:
+          app_id: 1:906887262373:android:f2ba1e7b67faeb92a1dd4c
+          groups:
+            - developer
