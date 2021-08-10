@@ -1,5 +1,4 @@
 # Automatically generated on 2021-08-09 UTC from https://codemagic.io/app/6110daa7e328af04a4671c15/settings
-# Note that this configuration is not an exact match to UI settings. Review and adjust as necessary.
 
 workflows:
   firebase_destribution_android:
