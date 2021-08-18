@@ -52,6 +52,9 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
+            const Text(
+              'Flutter 大学の勉強会中だよ！',
+            ),
           ],
         ),
       ),
